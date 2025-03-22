@@ -1,0 +1,9 @@
+# Cryptography Project
+
+## Overview
+The **Cryptography** project is a Python-based application that provides basic functionality for encoding and decoding messages. It supports both encryption and decryption using a simple cipher method, allowing users to secure their messages and retrieve them later.
+
+## Features
+- **Encode**: Convert a message into a coded version using an encoding algorithm.
+- **Decode**: Convert the encoded message back to its original form.
+- **Simple User Interface**: Easy-to-use interface for encoding and decoding messages.
